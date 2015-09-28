@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AMMainViewController.h
 //  testApp
 //
 //  Created by admin on 9/28/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AMMainViewController : UIViewController
 
 @end
-
